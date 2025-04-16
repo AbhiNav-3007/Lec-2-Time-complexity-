@@ -1,0 +1,8 @@
+When git repository have different name than vs code folder name
+then open terminal and write "git init"
+then write "git remote add origin " link of repo""
+then if folder is empty then make readme.md file by writing:- echo "#Lec-2-time-Complexity">>README.md "
+then write "git add . "
+then write "git commit -m "initial commit""
+then write "git branch -m main"
+then write push -u origin main"
