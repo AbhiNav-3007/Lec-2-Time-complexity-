@@ -1,0 +1,1 @@
+// everything are basic which are taught and everything is in notebook
